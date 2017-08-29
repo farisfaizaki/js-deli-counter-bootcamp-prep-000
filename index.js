@@ -14,6 +14,6 @@ function nowServing(line){
   }else{
     var string = `There is nobody waiting to be served!`;
   }
-  return string;  
-  
+  return string;
+
 }
